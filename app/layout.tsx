@@ -125,7 +125,7 @@ export default function RootLayout({
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        
+        <meta name="msvalidate.01" content="6692EBB2C3A2DDC3C128EC1C1713D11F" />
         {/* App Schema for Mobile App */}
         <script
           type="application/ld+json"
