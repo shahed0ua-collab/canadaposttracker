@@ -79,7 +79,6 @@ export const metadata: Metadata = {
     canonical: 'https://canadaposttracking.app',
     languages: {
       'en-CA': 'https://canadaposttracking.app',
-      'fr-CA': 'https://canadaposttracking.app/fr',
     },
   },
   category: 'Shipping & Logistics',
